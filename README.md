@@ -5,6 +5,7 @@
 + exécuter la commande "mvn clean install"
 
 + Ajouter la dependence "maisontest" dans votre pom
+
 <dependency>
 	<groupId>net.adneom</groupId>
 	<artifactId>maisontest</artifactId>
