@@ -23,7 +23,7 @@ partition({1,2,3}, 2);
 
 + OU importer MaisonTest : 
 ```
-import static maisontest.MaisonTest.partition;
+import maisontest.MaisonTest;
 ...
 MaisonTest.partition({1,2,3}, 2);
 ```
